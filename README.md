@@ -8,8 +8,7 @@ Region and Birth Date
 Studies
 * Studied at "Grigore Moisil" Theoretical High School, Timișoara
 
-* Undergraduate Student at "Universitatea Politehnica Timișoara"
-* Automation and Computers, specialization in Computers and Information Technology
+* Undergraduate Student at "Universitatea Politehnica Timișoara", Automation and Computers, specialization in Computers and Information Technology
 
 Contact
 * Email: stefanescu.alexandru.stefan@gmail.com
