@@ -15,10 +15,11 @@ Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
 ## Current Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab&theme=dark)](https://skillicons.dev)
 ## Future Learning Plan
-[![Future Skills](https://skillicons.dev/icons?i=html,css,js,java&theme=light)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=html,css,js,react,java&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
+[![IDE](https://skillicons.dev/icons?i=emacs,vscode,pycharm&theme=dark)](https://skillicons.dev)
 <!--
 **Alexandru005/Alexandru005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
