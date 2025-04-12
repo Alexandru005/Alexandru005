@@ -15,9 +15,9 @@ Contact
 
 ## Projects
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,matlab&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=html,css,js,react,java&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=react,java,js&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
 [![IDE](https://skillicons.dev/icons?i=emacs,vscode,pycharm&theme=dark)](https://skillicons.dev)
 <!--
