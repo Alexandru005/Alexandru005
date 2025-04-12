@@ -4,6 +4,7 @@ Undergraduate Student at "Universitatea Politehnica Timișoara"
 
 Automation and Computers, Computer and Information Technology Branch
 
+
 8 Martie 2005
 
 Timișoara, Timiș, România
