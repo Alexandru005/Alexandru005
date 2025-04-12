@@ -1,17 +1,17 @@
 # Hello world! 👋
 ## About me
 * Region and Birth Date
-- 8 March 2005
+8 March 2005
 
-- Timișoara, Timiș, România
+Timișoara, Timiș, România
 
 * Studies
-- Studied at "Grigore Moisil" Theoretical High School, Timișoara
+Studied at "Grigore Moisil" Theoretical High School, Timișoara
 
-- Undergraduate Student at "Universitatea Politehnica Timișoara"
+Undergraduate Student at "Universitatea Politehnica Timișoara"
 
 * Contact
-- Email: stefanescu.alexandru.stefan@gmail.com
+Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
 ## Current Skills
