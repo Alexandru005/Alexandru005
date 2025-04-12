@@ -1,17 +1,14 @@
 # Hi there 👋
 ## Background
-Undergraduate Student at "Universitatea Politehnica Timișoara"
+-8 March 2005
 
-Automation and Computers, Computer and Information Technology Branch
+-Timișoara, Timiș, România
 
+-Studied at "Grigore Moisil" Theoretical High School, Timișoara
 
-8 March 2005
+-Undergraduate Student at "Universitatea Politehnica Timișoara"
 
-Timișoara, Timiș, România
-
-Studied at "Grigore Moisil" Theoretical High School, Timișoara
-
-Email: stefanescu.alexandru.stefan@gmail.com
+-Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
 ## Current Skills
