@@ -1,5 +1,6 @@
 # Hello world! 👋
-## Background
+## About me
+###Region and Birth date
 - 8 March 2005
 
 - Timișoara, Timiș, România
