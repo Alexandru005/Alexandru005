@@ -15,7 +15,7 @@ Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
 ## Current Skills
-![C](https://github.com/user-attachments/assets/ef225ce8-ac3c-4158-bf81-08401be9a4c1)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&theme=light)](https://skillicons.dev)
 
 
 ## Future Learning Plan
