@@ -14,9 +14,9 @@
 * Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
-## Current Skills
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab&theme=dark)](https://skillicons.dev)
-## Future Learning Plan
+## Skills I Want to Learn
 [![Future Skills](https://skillicons.dev/icons?i=html,css,js,react,java&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
 [![IDE](https://skillicons.dev/icons?i=emacs,vscode,pycharm&theme=dark)](https://skillicons.dev)
