@@ -15,7 +15,7 @@ Contact
 
 ## Projects
 * ANCIENT-WILDS
-* Tic Tac Toe game
+* Tic Tac Toe game (C-projects)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,matlab&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
