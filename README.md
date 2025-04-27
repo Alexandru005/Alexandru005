@@ -14,8 +14,9 @@ Contact
 * Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
-* ANCIENT-WILDS
+* ANCIENT-WILDS (Website)
 * Tic Tac Toe game (C-projects)
+* Rock Paper Scissors (Html/Css/JavaScript)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,matlab&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
