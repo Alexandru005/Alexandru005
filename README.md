@@ -18,9 +18,9 @@ Contact
 * Tic Tac Toe game (C-projects)
 * Rock Paper Scissors (Html/Css/JavaScript)
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,git&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=react,java,js,git,mysql&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=react,java,mysql&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
 [![IDE](https://skillicons.dev/icons?i=emacs,vscode,pycharm&theme=dark)](https://skillicons.dev)
 <!--
