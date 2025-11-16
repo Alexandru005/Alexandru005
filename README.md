@@ -18,11 +18,11 @@ Contact
 * Tic Tac Toe game (C-projects)
 * Rock Paper Scissors (Html/Css/JavaScript)
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,git,react&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=react,java,mysql&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=java,mysql,mongodb,express.js,node.js&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
-[![IDE](https://skillicons.dev/icons?i=emacs,vscode,clion&theme=dark)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=emacs,vscode,clion,kate&theme=dark)](https://skillicons.dev)
 <!--
 **Alexandru005/Alexandru005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
