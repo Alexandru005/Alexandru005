@@ -14,6 +14,7 @@ Contact
 * Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
+* Code review (Internship-Haufe)
 * ANCIENT-WILDS (Website)
 * Tic Tac Toe game (C-projects)
 * Rock Paper Scissors (Html/Css/JavaScript)
