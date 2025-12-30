@@ -21,7 +21,7 @@ Contact
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react,git&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=java,mysql,mongodb,express,nodejs&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=java,mysql,mongodb,springboot,python&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
 [![IDE](https://skillicons.dev/icons?i=emacs,vscode,clion,kate&theme=dark)](https://skillicons.dev)
 <!--
