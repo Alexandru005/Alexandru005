@@ -15,6 +15,8 @@ Contact
 
 ## Projects
 * Code review (Internship-Haufe)
+* Formula1 (Website)
+* E-SHOP (Website)
 * ANCIENT-WILDS (Website)
 * Tic Tac Toe game (C-projects)
 * Rock Paper Scissors (Html/Css/JavaScript)
