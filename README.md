@@ -21,9 +21,9 @@ Contact
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react,git&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,aws&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
-[![IDE](https://skillicons.dev/icons?i=emacs,vscode,clion,kate&theme=dark)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=emacs,vscode,clion,kate.intellij,pycharm&theme=dark)](https://skillicons.dev)
 <!--
 **Alexandru005/Alexandru005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
