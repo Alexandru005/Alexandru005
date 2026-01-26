@@ -25,7 +25,7 @@ Contact
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 ## Skills I Want to Learn
-[![Future Skills](https://skillicons.dev/icons?i=spring,postgres,docker,aws&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=spring,postgres,docker,azure&theme=dark)](https://skillicons.dev)
 ## Most Used IDE's
 [![IDE](https://skillicons.dev/icons?i=vscode,clion,idea,pycharm,postman&theme=dark)](https://skillicons.dev)
 <!--
