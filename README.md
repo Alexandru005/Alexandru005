@@ -14,6 +14,7 @@ Contact
 * Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
+* To-do List (2026/Mini-projects/to-do-list)
 * Code review (Internship-Haufe)
 * Formula1 (Website)
 * E-SHOP (Website)
