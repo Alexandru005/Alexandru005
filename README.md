@@ -14,11 +14,12 @@ Contact
 * Email: stefanescu.alexandru.stefan@gmail.com
 
 ## Projects
-* To-do List (2026/Mini-projects/to-do-list)
-* Code review (Internship-Haufe)
-* Formula1 (Website)
-* E-SHOP (Website)
-* ANCIENT-WILDS (Website)
+* ITECify (Code Editor Web App - fullstack)
+* BarberShop (Web App for barbershops appoiments - fullstack)
+* Code review (Internship-Haufe - fullstack)
+* To-do List (2026/Mini-projects/to-do-list - fullstack web app)
+* Formula1 (Website - frontend)
+* E-SHOP (Website - frontend)
 * Tic Tac Toe game (C-projects)
 * Rock Paper Scissors (Html/Css/JavaScript)
 ## My Skills
