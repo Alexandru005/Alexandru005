@@ -16,7 +16,7 @@ Contact
 ## Projects
 * ITECify (Code Editor Web App - fullstack)
 * BarberShop (Web App for barbershops appoiments - fullstack)
-* Code review (Internship-Haufe - fullstack)
+* Code review (Hackathon-Haufe - fullstack)
 * To-do List (2026/Mini-projects/to-do-list - fullstack web app)
 * Formula1 (Website - frontend)
 * E-SHOP (Website - frontend)
