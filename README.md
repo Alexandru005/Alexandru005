@@ -4,7 +4,7 @@
 I am a Computer Science student at Politehnica University of Timișoara, deeply passionate about **Full-Stack and Backend Development**. I thrive in hackathons, enjoy building practical web applications, and am constantly pushing myself to write cleaner, more efficient code. My goal is to apply my knowledge in a professional software engineering environment and build impactful digital solutions.
 
 - 🔭 **I’m currently working on:** Expanding my portfolio with complex full-stack applications like BarberShop and iTECify.
-- 🌱 **I’m currently focusing on:** Deepening my knowledge in **Backend Engineering**, specifically Software Architecture and Design Patterns (like Factory and Builder) to write scalable code.
+- 🌱 **I’m currently focusing on:** Deepening my knowledge in **Backend Engineering**, specifically Software Architecture and Design Patterns to write scalable code.
 - 👯 **I’m looking to collaborate on:** Open-source projects or innovative hackathon ideas.
 - 💬 **Ask me about:** Java, Spring Boot, SQL optimization, or how to integrate LLMs into code review platforms.
 - 📫 **How to reach me:** [stefanescu.alexandru.stefan@gmail.com](mailto:stefanescu.alexandru.stefan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandru-stefan-stefanescu-a14670373)
@@ -33,7 +33,7 @@ I am a Computer Science student at Politehnica University of Timișoara, deeply 
 
 **Frontend:**
 <br/>
-[![Frontend](https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
 **Tools & IDEs:**
 <br/>
@@ -47,6 +47,4 @@ I am a Computer Science student at Politehnica University of Timișoara, deeply 
 * **Software Testing: Web, API & Automated Testing**
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandru005&show_icons=true&theme=radical" alt="Alexandru's GitHub Stats" width="400"/>
-</p>
+
