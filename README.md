@@ -3,12 +3,12 @@
 ## 👨‍💻 About Me
 I am a Computer Science student at Politehnica University of Timișoara, deeply passionate about **Full-Stack and Backend Development**. I thrive in hackathons, enjoy building practical web applications, and am constantly pushing myself to write cleaner, more efficient code. My goal is to apply my knowledge in a professional software engineering environment and build impactful digital solutions.
 
-- 🔭 **I’m currently working on:** Expanding my portfolio with complex full-stack applications like BarberShop and iTECify.
-- 🌱 **I’m currently focusing on:** Deepening my knowledge in **Backend Engineering**, specifically Software Architecture and Design Patterns to write scalable code.
-- 👯 **I’m looking to collaborate on:** Open-source projects or innovative hackathon ideas.
+- 💻 **I’m currently working on:** Expanding my portfolio with complex full-stack applications like BarberShop and iTECify.
+- 🧠 **I’m currently focusing on:** Deepening my knowledge in **Backend Engineering**, specifically Software Architecture and Design Patterns to write scalable code.
+- 👥 **I’m looking to collaborate on:** Open-source projects or innovative hackathon ideas.
 - 💬 **Ask me about:** Java, Spring Boot, SQL optimization, or how to integrate LLMs into code review platforms.
 - 📫 **How to reach me:** [stefanescu.alexandru.stefan@gmail.com](mailto:stefanescu.alexandru.stefan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandru-stefan-stefanescu-a14670373)
-- ⚡ **Fun fact:** When I am not debugging code or designing database schemas, I am actively studying independently to reach a B2 proficiency level in German!
+- ⚡ **Fun fact:** When I am not debugging code or designing database schemas, I am actively studying independently to reach a B1/B2 level in German!
 
 ---
 
@@ -41,7 +41,8 @@ I am a Computer Science student at Politehnica University of Timișoara, deeply 
 
 ---
 
-## 📜 Certifications
+## 🎖️ Certifications
+* **Claude Code in Action**
 * **Introduction to Cloud Infrastructure (Microsoft Azure)** 
 * **Relational Databases: SQL**
 * **Software Testing: Web, API & Automated Testing**
