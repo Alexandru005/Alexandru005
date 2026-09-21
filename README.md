@@ -26,10 +26,10 @@ I'm still early in my journey: I have solid Java fundamentals, but I'm not an ex
 ---
  
 ## 🚀 Featured Projects
-* **[BarberShop](https://github.com/YOUR_USERNAME/BarberShop)** - A full-stack web application connecting clients with barbershops. Features user authentication, appointment scheduling, and a review system. *(Java, Spring Boot, React, PostgreSQL, Docker)*
-* **[Student Manager](https://github.com/YOUR_USERNAME/StudentManager)** - A task management website for students, with a Spring Boot REST backend and a React (Vite) frontend. *(Java, Spring Boot, React)*
-* **[iTECify](https://github.com/YOUR_USERNAME/iTECify)** - A real-time code-collaboration and sandboxing platform built during a 72-hour hackathon, with a local AI model (Ollama) integrated. *(React, JavaScript, Ollama AI, Docker)*
-* **[Formula1](https://github.com/YOUR_USERNAME/Formula1)** - A frontend website displaying current F1 team and driver standings.
+* **[BarberShop](https://github.com/Alexandru005/BarberShop)** - A full-stack web application connecting clients with barbershops. Features user authentication, appointment scheduling, and a review system. *(Java, Spring Boot, React, PostgreSQL, Docker)*
+* **[Student Manager](https://github.com/Alexandru005/StudentManager)** - A task management website for students, with a Spring Boot REST backend and a React (Vite) frontend. *(Java, Spring Boot, React)*
+* **[iTECify](https://github.com/Alexandru005/iTECify)** - A real-time code-collaboration and sandboxing platform built during a 72-hour hackathon, with a local AI model (Ollama) integrated. *(React, JavaScript, Ollama AI, Docker)*
+* **[Formula1](https://github.com/Alexandru005/Formula1)** - A frontend website displaying current F1 team and driver standings.
 ---
  
 ## 🛠️ Tech Stack & Tools
